@@ -96,5 +96,4 @@ client.join(null, channelName, null, function(uid){
         client.on('stream-removed', removeVideoStream);
     },handleFail);
 
-},handleFail);
-//run app
+},handleFail); 
