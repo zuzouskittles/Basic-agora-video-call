@@ -97,3 +97,4 @@ client.join(null, channelName, null, function(uid){
     },handleFail);
 
 },handleFail);
+//run app
